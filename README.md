@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Theerapat 👋
 
-<!--
-**Kornroleajb/Kornroleajb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering & IoT Student  
+Rajamangala University of Technology Krungthep
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development, machine learning,
+data analysis, and IoT systems.
+
+## Skills
+
+- Python
+- PHP
+- MySQL
+- HTML / CSS / JavaScript
+- C++
+- Machine Learning
+- Data Analysis
+
+## Featured Project
+
+### Mackerel Distribution Prediction System
+
+Analytical Ocean Data Processing System for Predicting
+Mackerel Distribution in the Gulf of Thailand Using Machine Learning.
+
+Technologies:
+- Python
+- Random Forest
+- Linear Regression
+- K-Means Clustering
+- PHP
+- MySQL
+- CSS / JavaScript
